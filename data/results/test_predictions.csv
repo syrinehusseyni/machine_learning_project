@@ -1,0 +1,823 @@
+Predicted_Churn,Churn_Probability_%,Customer_Segment,Segment_Name
+1,99.93,1,VIP
+0,0.07,0,Stable
+0,17.52,1,VIP
+1,99.63,1,VIP
+0,1.6,0,Stable
+1,99.87,3,At Risk
+1,76.87,1,VIP
+0,0.79,3,At Risk
+1,59.59,3,At Risk
+0,18.44,3,At Risk
+1,99.47,1,VIP
+1,97.14,3,At Risk
+0,0.02,3,At Risk
+0,3.6,1,VIP
+0,14.46,2,Occasional
+1,99.98,1,VIP
+1,93.46,1,VIP
+0,0.61,1,VIP
+0,0.96,3,At Risk
+0,11.88,0,Stable
+0,18.11,3,At Risk
+0,17.76,1,VIP
+0,0.8,1,VIP
+0,0.22,1,VIP
+1,99.94,2,Occasional
+0,0.53,3,At Risk
+1,100.0,1,VIP
+0,9.54,0,Stable
+1,93.54,1,VIP
+0,0.45,0,Stable
+0,0.02,0,Stable
+0,0.02,0,Stable
+0,0.09,1,VIP
+0,0.96,1,VIP
+0,0.77,0,Stable
+0,6.87,1,VIP
+0,0.91,3,At Risk
+0,2.96,3,At Risk
+1,59.96,2,Occasional
+1,98.6,1,VIP
+0,0.58,2,Occasional
+0,2.51,3,At Risk
+1,95.1,2,Occasional
+0,0.02,2,Occasional
+1,98.6,1,VIP
+1,99.2,1,VIP
+1,99.69,2,Occasional
+1,99.7,3,At Risk
+0,0.01,0,Stable
+0,3.29,3,At Risk
+0,1.44,1,VIP
+1,66.0,1,VIP
+1,99.87,1,VIP
+1,99.85,1,VIP
+0,1.94,0,Stable
+0,0.94,1,VIP
+0,2.85,2,Occasional
+1,99.74,3,At Risk
+1,99.91,1,VIP
+1,97.41,1,VIP
+1,97.88,1,VIP
+0,0.5,1,VIP
+0,0.01,1,VIP
+0,13.11,1,VIP
+0,0.02,2,Occasional
+0,1.49,0,Stable
+0,0.12,1,VIP
+1,66.54,3,At Risk
+0,2.64,0,Stable
+0,0.99,1,VIP
+0,2.04,0,Stable
+0,13.38,3,At Risk
+1,96.29,1,VIP
+0,0.01,1,VIP
+0,0.01,3,At Risk
+0,1.32,1,VIP
+1,99.61,1,VIP
+0,0.93,0,Stable
+0,0.03,3,At Risk
+1,80.24,1,VIP
+0,2.17,0,Stable
+0,2.99,1,VIP
+1,99.84,1,VIP
+0,4.23,1,VIP
+1,75.93,3,At Risk
+0,0.16,3,At Risk
+1,99.59,1,VIP
+0,0.02,0,Stable
+0,0.02,1,VIP
+1,98.89,3,At Risk
+1,98.64,1,VIP
+1,99.54,1,VIP
+0,0.18,2,Occasional
+0,0.04,0,Stable
+0,0.09,0,Stable
+0,0.22,1,VIP
+0,1.41,1,VIP
+1,99.63,1,VIP
+0,0.53,3,At Risk
+0,16.74,1,VIP
+0,0.02,3,At Risk
+0,0.16,3,At Risk
+0,2.45,1,VIP
+1,74.52,1,VIP
+1,88.22,3,At Risk
+1,99.69,1,VIP
+1,99.93,1,VIP
+0,2.38,1,VIP
+0,0.96,0,Stable
+1,99.24,1,VIP
+0,10.26,2,Occasional
+0,0.15,1,VIP
+0,0.21,3,At Risk
+1,99.9,2,Occasional
+0,0.07,3,At Risk
+0,0.05,1,VIP
+0,7.55,0,Stable
+0,28.41,2,Occasional
+0,17.85,0,Stable
+0,0.38,2,Occasional
+0,4.79,0,Stable
+1,99.98,1,VIP
+0,0.35,0,Stable
+1,99.9,1,VIP
+0,0.44,1,VIP
+0,0.64,1,VIP
+1,91.98,1,VIP
+0,0.83,0,Stable
+0,0.39,3,At Risk
+0,0.01,1,VIP
+1,99.97,1,VIP
+0,0.53,0,Stable
+0,0.02,0,Stable
+1,96.84,2,Occasional
+0,23.01,1,VIP
+1,98.58,1,VIP
+0,11.81,1,VIP
+0,0.08,0,Stable
+1,99.92,1,VIP
+1,99.81,3,At Risk
+0,0.2,3,At Risk
+0,24.49,1,VIP
+0,0.04,0,Stable
+1,98.13,3,At Risk
+0,0.09,2,Occasional
+0,45.47,3,At Risk
+0,1.16,2,Occasional
+0,11.61,1,VIP
+0,0.31,1,VIP
+1,99.53,1,VIP
+0,49.89,3,At Risk
+0,7.22,3,At Risk
+0,1.33,2,Occasional
+0,37.27,1,VIP
+1,99.99,1,VIP
+0,3.93,3,At Risk
+0,0.88,3,At Risk
+0,0.35,0,Stable
+0,2.08,1,VIP
+1,91.35,2,Occasional
+1,86.06,1,VIP
+0,0.01,0,Stable
+0,0.66,0,Stable
+0,3.64,3,At Risk
+1,99.99,1,VIP
+0,0.02,3,At Risk
+1,55.47,1,VIP
+1,99.76,3,At Risk
+0,0.04,3,At Risk
+0,0.01,1,VIP
+0,0.14,0,Stable
+0,0.93,1,VIP
+0,3.96,1,VIP
+0,0.21,3,At Risk
+0,0.04,3,At Risk
+0,0.28,0,Stable
+0,0.58,1,VIP
+0,0.73,3,At Risk
+1,99.92,1,VIP
+0,0.68,0,Stable
+0,0.03,1,VIP
+0,12.35,2,Occasional
+1,99.96,2,Occasional
+0,30.86,1,VIP
+1,99.13,1,VIP
+0,0.08,3,At Risk
+1,99.03,2,Occasional
+1,99.91,1,VIP
+0,14.19,3,At Risk
+0,0.15,0,Stable
+0,3.15,2,Occasional
+0,0.61,0,Stable
+0,0.03,3,At Risk
+1,99.96,1,VIP
+1,99.93,1,VIP
+0,0.3,1,VIP
+0,0.46,1,VIP
+1,99.19,1,VIP
+0,25.85,1,VIP
+0,0.03,0,Stable
+0,8.01,3,At Risk
+0,0.36,1,VIP
+0,5.17,0,Stable
+1,93.56,2,Occasional
+0,0.09,1,VIP
+0,29.15,1,VIP
+0,0.56,3,At Risk
+0,0.05,1,VIP
+0,0.02,2,Occasional
+1,93.19,1,VIP
+0,0.4,3,At Risk
+0,2.27,1,VIP
+0,38.3,1,VIP
+0,0.03,0,Stable
+1,99.72,1,VIP
+0,0.6,2,Occasional
+0,0.52,2,Occasional
+0,0.05,1,VIP
+0,6.13,3,At Risk
+1,92.65,1,VIP
+0,0.01,3,At Risk
+0,0.0,0,Stable
+1,98.17,1,VIP
+0,0.13,2,Occasional
+0,0.03,1,VIP
+0,1.03,1,VIP
+0,3.28,0,Stable
+0,0.15,1,VIP
+1,99.78,1,VIP
+1,99.98,1,VIP
+1,99.99,1,VIP
+1,98.99,3,At Risk
+0,0.12,3,At Risk
+1,96.69,1,VIP
+0,0.02,0,Stable
+0,5.29,0,Stable
+0,0.12,0,Stable
+0,0.63,1,VIP
+0,0.13,2,Occasional
+0,1.05,1,VIP
+0,2.28,2,Occasional
+0,0.59,1,VIP
+1,99.98,1,VIP
+0,1.15,0,Stable
+0,0.19,3,At Risk
+1,98.63,1,VIP
+0,44.03,1,VIP
+1,98.01,3,At Risk
+0,1.63,2,Occasional
+0,0.01,2,Occasional
+1,99.6,1,VIP
+0,6.4,0,Stable
+1,50.22,1,VIP
+0,2.22,1,VIP
+0,1.27,0,Stable
+1,99.89,1,VIP
+0,0.01,0,Stable
+0,8.14,1,VIP
+0,0.46,1,VIP
+0,2.9,1,VIP
+1,93.88,1,VIP
+0,0.58,1,VIP
+1,99.97,1,VIP
+0,0.12,0,Stable
+0,0.59,1,VIP
+0,13.05,1,VIP
+0,3.91,3,At Risk
+0,0.37,1,VIP
+1,56.27,1,VIP
+0,1.68,1,VIP
+0,0.11,1,VIP
+1,98.65,1,VIP
+0,4.39,3,At Risk
+0,49.28,1,VIP
+0,0.06,1,VIP
+1,96.22,1,VIP
+1,99.93,1,VIP
+0,0.24,2,Occasional
+0,0.2,0,Stable
+1,99.65,1,VIP
+0,0.62,0,Stable
+1,99.67,1,VIP
+0,0.34,1,VIP
+0,0.31,1,VIP
+1,99.96,1,VIP
+1,99.81,1,VIP
+1,99.83,1,VIP
+0,0.19,1,VIP
+0,0.05,0,Stable
+1,99.99,1,VIP
+0,0.21,1,VIP
+1,99.58,1,VIP
+1,99.87,1,VIP
+0,2.47,2,Occasional
+0,0.32,1,VIP
+1,99.89,1,VIP
+0,29.49,3,At Risk
+1,84.63,1,VIP
+0,0.01,3,At Risk
+0,0.81,3,At Risk
+0,0.57,3,At Risk
+1,98.1,3,At Risk
+0,5.26,3,At Risk
+0,0.56,3,At Risk
+0,0.0,0,Stable
+0,26.88,1,VIP
+1,93.79,1,VIP
+1,99.39,1,VIP
+1,99.97,1,VIP
+0,0.66,3,At Risk
+0,33.55,3,At Risk
+1,99.97,1,VIP
+1,98.99,1,VIP
+0,7.52,1,VIP
+0,0.56,0,Stable
+0,0.05,3,At Risk
+0,0.31,1,VIP
+0,0.39,3,At Risk
+1,96.76,1,VIP
+0,37.27,3,At Risk
+0,0.1,0,Stable
+0,0.01,3,At Risk
+0,0.26,1,VIP
+0,3.01,1,VIP
+0,0.67,1,VIP
+1,99.82,1,VIP
+1,93.32,2,Occasional
+1,99.79,3,At Risk
+0,0.51,1,VIP
+1,99.58,3,At Risk
+0,3.95,0,Stable
+0,0.0,0,Stable
+1,98.29,1,VIP
+1,93.96,3,At Risk
+1,98.34,1,VIP
+0,0.08,0,Stable
+0,2.43,1,VIP
+0,18.7,1,VIP
+0,0.42,1,VIP
+0,0.37,0,Stable
+0,15.01,1,VIP
+0,0.61,3,At Risk
+1,99.99,2,Occasional
+0,1.63,2,Occasional
+1,99.99,1,VIP
+1,59.63,2,Occasional
+0,0.53,0,Stable
+0,0.13,3,At Risk
+0,0.04,1,VIP
+0,0.0,0,Stable
+1,99.92,1,VIP
+0,7.2,2,Occasional
+0,5.21,1,VIP
+0,0.05,1,VIP
+0,0.03,1,VIP
+1,98.32,3,At Risk
+0,1.27,2,Occasional
+0,0.05,0,Stable
+0,0.15,0,Stable
+0,0.36,0,Stable
+1,100.0,1,VIP
+0,18.14,0,Stable
+0,1.59,3,At Risk
+0,1.86,2,Occasional
+1,99.87,1,VIP
+0,0.17,1,VIP
+0,34.3,0,Stable
+0,0.89,1,VIP
+0,1.22,0,Stable
+1,98.94,1,VIP
+1,96.65,2,Occasional
+0,2.04,1,VIP
+0,7.89,2,Occasional
+0,5.46,3,At Risk
+0,0.57,3,At Risk
+0,0.18,1,VIP
+1,99.47,3,At Risk
+1,97.44,1,VIP
+0,0.14,0,Stable
+0,0.08,0,Stable
+0,0.01,3,At Risk
+1,99.96,1,VIP
+0,0.09,3,At Risk
+0,1.88,1,VIP
+1,98.97,3,At Risk
+0,0.03,1,VIP
+1,99.98,1,VIP
+0,0.07,3,At Risk
+1,94.2,2,Occasional
+1,92.39,2,Occasional
+1,99.85,1,VIP
+1,99.89,1,VIP
+1,64.92,1,VIP
+0,0.32,2,Occasional
+0,0.03,0,Stable
+1,99.9,1,VIP
+0,29.78,3,At Risk
+1,99.89,2,Occasional
+0,2.02,0,Stable
+0,0.09,3,At Risk
+1,99.8,1,VIP
+1,53.13,0,Stable
+1,99.95,3,At Risk
+0,0.3,3,At Risk
+1,67.48,3,At Risk
+1,99.88,2,Occasional
+1,99.29,1,VIP
+0,13.88,3,At Risk
+0,0.02,1,VIP
+1,98.6,1,VIP
+1,67.42,1,VIP
+1,97.73,1,VIP
+0,45.15,2,Occasional
+1,99.75,2,Occasional
+0,4.54,3,At Risk
+1,95.54,3,At Risk
+1,99.7,3,At Risk
+0,1.02,0,Stable
+0,0.22,1,VIP
+1,89.3,1,VIP
+0,0.0,3,At Risk
+0,0.02,0,Stable
+0,1.11,1,VIP
+1,99.86,1,VIP
+0,13.9,2,Occasional
+0,0.8,0,Stable
+0,0.69,3,At Risk
+1,98.84,3,At Risk
+0,0.01,3,At Risk
+0,0.01,1,VIP
+0,0.17,1,VIP
+1,99.85,1,VIP
+1,99.72,1,VIP
+0,34.46,2,Occasional
+0,0.16,2,Occasional
+0,0.28,0,Stable
+0,3.19,0,Stable
+1,99.9,1,VIP
+1,99.98,1,VIP
+0,4.7,2,Occasional
+0,0.78,2,Occasional
+1,60.87,1,VIP
+0,0.7,3,At Risk
+1,59.96,3,At Risk
+0,0.33,3,At Risk
+0,0.01,3,At Risk
+1,99.88,1,VIP
+0,0.12,0,Stable
+0,2.41,1,VIP
+1,70.53,1,VIP
+0,0.09,3,At Risk
+1,96.35,1,VIP
+0,0.02,1,VIP
+1,85.95,1,VIP
+0,0.44,3,At Risk
+0,0.54,1,VIP
+0,0.01,3,At Risk
+0,4.22,1,VIP
+1,72.2,1,VIP
+0,0.07,2,Occasional
+0,37.19,3,At Risk
+1,98.52,1,VIP
+0,0.02,3,At Risk
+1,99.57,1,VIP
+0,0.07,3,At Risk
+0,0.22,0,Stable
+0,0.14,2,Occasional
+1,99.9,1,VIP
+1,99.82,1,VIP
+0,0.03,3,At Risk
+0,3.23,0,Stable
+0,2.22,3,At Risk
+1,94.14,3,At Risk
+0,0.04,0,Stable
+0,1.63,0,Stable
+1,99.94,1,VIP
+0,0.92,1,VIP
+0,0.03,0,Stable
+0,0.59,1,VIP
+1,99.98,1,VIP
+1,84.39,1,VIP
+0,18.46,1,VIP
+1,89.39,3,At Risk
+0,0.4,1,VIP
+0,0.49,0,Stable
+1,99.99,2,Occasional
+0,0.13,0,Stable
+0,0.01,3,At Risk
+0,0.04,3,At Risk
+1,52.94,1,VIP
+1,99.73,1,VIP
+1,69.79,1,VIP
+1,58.23,3,At Risk
+0,0.94,3,At Risk
+0,0.03,0,Stable
+1,99.99,1,VIP
+0,20.81,0,Stable
+0,3.76,3,At Risk
+1,56.73,1,VIP
+1,99.64,1,VIP
+0,29.61,3,At Risk
+1,99.76,1,VIP
+1,90.48,3,At Risk
+0,19.32,1,VIP
+0,3.01,2,Occasional
+0,0.05,1,VIP
+0,0.36,3,At Risk
+0,0.09,2,Occasional
+0,0.33,1,VIP
+1,55.0,3,At Risk
+0,8.33,1,VIP
+0,0.13,3,At Risk
+1,89.86,2,Occasional
+0,14.34,1,VIP
+0,5.4,0,Stable
+1,78.37,3,At Risk
+0,0.13,3,At Risk
+0,31.65,1,VIP
+1,99.61,1,VIP
+0,0.11,1,VIP
+0,41.12,3,At Risk
+0,6.74,1,VIP
+1,98.93,1,VIP
+0,0.08,1,VIP
+0,1.41,1,VIP
+1,99.94,1,VIP
+0,0.04,1,VIP
+0,0.12,1,VIP
+1,99.48,1,VIP
+0,0.5,1,VIP
+0,0.01,0,Stable
+0,0.0,1,VIP
+0,0.21,3,At Risk
+1,55.96,2,Occasional
+1,71.37,3,At Risk
+0,14.28,0,Stable
+1,99.98,1,VIP
+1,98.23,1,VIP
+1,56.05,1,VIP
+0,3.08,2,Occasional
+0,0.24,3,At Risk
+1,95.32,1,VIP
+1,77.49,2,Occasional
+1,74.05,1,VIP
+0,0.02,3,At Risk
+0,1.55,0,Stable
+0,0.34,1,VIP
+0,0.78,3,At Risk
+1,99.64,1,VIP
+0,30.6,1,VIP
+1,98.88,1,VIP
+0,0.02,3,At Risk
+1,99.75,2,Occasional
+1,63.34,3,At Risk
+0,0.31,2,Occasional
+0,2.59,2,Occasional
+1,96.13,3,At Risk
+0,1.16,0,Stable
+0,0.0,0,Stable
+1,54.02,3,At Risk
+0,0.17,1,VIP
+0,0.01,0,Stable
+1,62.95,1,VIP
+0,0.08,0,Stable
+0,1.31,2,Occasional
+0,11.92,1,VIP
+0,0.06,1,VIP
+1,95.32,1,VIP
+0,0.11,1,VIP
+0,0.43,1,VIP
+0,0.06,1,VIP
+1,93.76,1,VIP
+0,0.03,1,VIP
+0,0.0,0,Stable
+1,99.98,1,VIP
+0,0.07,0,Stable
+1,99.97,1,VIP
+0,0.02,0,Stable
+0,5.37,0,Stable
+1,99.69,3,At Risk
+0,0.3,0,Stable
+0,0.56,3,At Risk
+0,4.74,3,At Risk
+0,0.17,1,VIP
+0,0.02,0,Stable
+1,99.93,1,VIP
+0,0.05,3,At Risk
+0,0.04,0,Stable
+0,0.1,1,VIP
+0,0.24,3,At Risk
+0,0.89,0,Stable
+1,91.2,1,VIP
+0,0.23,1,VIP
+0,0.06,3,At Risk
+0,0.43,0,Stable
+0,0.08,3,At Risk
+0,36.79,1,VIP
+0,0.03,1,VIP
+1,95.23,3,At Risk
+0,0.01,3,At Risk
+0,0.32,1,VIP
+1,51.67,3,At Risk
+0,5.24,0,Stable
+1,99.71,1,VIP
+0,0.03,1,VIP
+0,0.1,1,VIP
+0,0.01,2,Occasional
+0,9.37,3,At Risk
+1,99.69,3,At Risk
+0,0.35,0,Stable
+1,94.85,1,VIP
+0,0.1,3,At Risk
+0,0.04,2,Occasional
+0,10.74,0,Stable
+1,74.2,1,VIP
+1,99.27,3,At Risk
+0,0.88,0,Stable
+0,1.67,0,Stable
+0,0.06,3,At Risk
+0,0.14,3,At Risk
+1,96.22,1,VIP
+1,96.31,1,VIP
+0,0.36,3,At Risk
+0,0.66,0,Stable
+1,99.86,3,At Risk
+0,0.05,1,VIP
+0,0.55,0,Stable
+0,0.37,3,At Risk
+1,99.17,1,VIP
+0,0.4,3,At Risk
+1,98.84,1,VIP
+0,0.5,1,VIP
+0,0.58,1,VIP
+0,0.7,0,Stable
+0,0.27,1,VIP
+0,3.08,0,Stable
+1,99.25,1,VIP
+1,77.68,1,VIP
+0,1.45,0,Stable
+0,0.39,3,At Risk
+1,78.1,2,Occasional
+0,0.01,1,VIP
+0,41.87,3,At Risk
+1,99.93,1,VIP
+0,33.59,2,Occasional
+0,8.52,2,Occasional
+1,58.22,1,VIP
+0,0.01,3,At Risk
+0,0.86,3,At Risk
+1,99.4,1,VIP
+0,0.01,3,At Risk
+1,99.96,1,VIP
+1,99.87,1,VIP
+1,99.56,1,VIP
+0,2.3,2,Occasional
+0,1.38,3,At Risk
+0,32.19,3,At Risk
+1,99.65,3,At Risk
+0,0.15,0,Stable
+0,7.2,1,VIP
+1,57.17,1,VIP
+0,7.98,0,Stable
+1,92.84,3,At Risk
+0,22.63,1,VIP
+0,1.98,1,VIP
+0,0.03,0,Stable
+1,99.91,1,VIP
+0,2.97,3,At Risk
+0,0.52,1,VIP
+0,0.01,3,At Risk
+0,1.04,0,Stable
+0,0.35,1,VIP
+0,2.05,1,VIP
+0,0.23,0,Stable
+1,99.33,2,Occasional
+0,11.72,3,At Risk
+1,99.39,1,VIP
+0,13.81,2,Occasional
+0,0.41,2,Occasional
+0,1.24,0,Stable
+0,0.25,1,VIP
+0,7.5,3,At Risk
+0,15.56,3,At Risk
+1,63.11,0,Stable
+1,99.95,1,VIP
+0,0.37,1,VIP
+1,98.69,1,VIP
+0,0.01,3,At Risk
+1,99.96,1,VIP
+0,1.93,3,At Risk
+0,0.02,3,At Risk
+0,0.03,0,Stable
+1,99.83,1,VIP
+1,97.21,3,At Risk
+1,84.31,2,Occasional
+0,0.9,3,At Risk
+1,56.79,1,VIP
+0,0.54,0,Stable
+1,98.48,2,Occasional
+1,99.21,1,VIP
+1,99.9,1,VIP
+1,99.6,1,VIP
+1,99.88,1,VIP
+1,99.92,1,VIP
+1,94.91,1,VIP
+0,1.94,3,At Risk
+0,2.47,0,Stable
+1,99.88,1,VIP
+0,0.43,2,Occasional
+0,0.22,3,At Risk
+1,72.84,1,VIP
+0,9.75,0,Stable
+1,99.72,1,VIP
+1,99.98,1,VIP
+1,99.92,1,VIP
+1,99.94,1,VIP
+0,0.11,2,Occasional
+1,81.43,1,VIP
+0,5.86,0,Stable
+0,21.19,1,VIP
+0,0.01,3,At Risk
+0,0.06,1,VIP
+1,99.74,1,VIP
+1,99.86,1,VIP
+0,0.3,0,Stable
+1,91.49,1,VIP
+0,2.44,1,VIP
+0,0.5,0,Stable
+1,54.73,1,VIP
+1,91.79,1,VIP
+0,0.05,0,Stable
+0,0.01,3,At Risk
+0,0.27,1,VIP
+0,0.0,3,At Risk
+0,43.17,3,At Risk
+0,0.32,2,Occasional
+0,1.01,0,Stable
+1,79.38,1,VIP
+0,0.15,3,At Risk
+1,83.24,3,At Risk
+1,99.88,1,VIP
+0,0.05,3,At Risk
+0,0.02,3,At Risk
+0,0.91,1,VIP
+0,0.6,0,Stable
+0,0.07,2,Occasional
+0,8.43,0,Stable
+1,93.91,3,At Risk
+0,0.26,3,At Risk
+0,3.45,3,At Risk
+0,2.2,0,Stable
+0,0.28,0,Stable
+0,0.22,0,Stable
+0,0.0,0,Stable
+0,0.88,3,At Risk
+0,0.02,3,At Risk
+0,0.01,3,At Risk
+1,99.68,1,VIP
+0,0.11,0,Stable
+0,0.05,1,VIP
+1,95.47,2,Occasional
+0,4.41,3,At Risk
+1,80.46,2,Occasional
+0,0.12,3,At Risk
+0,0.0,0,Stable
+0,0.04,3,At Risk
+1,99.93,2,Occasional
+0,0.02,0,Stable
+0,7.37,1,VIP
+0,0.54,0,Stable
+1,99.86,1,VIP
+0,38.91,1,VIP
+0,1.88,2,Occasional
+0,0.06,1,VIP
+0,0.02,3,At Risk
+0,11.07,0,Stable
+0,0.02,1,VIP
+1,65.73,2,Occasional
+0,5.39,0,Stable
+1,60.06,2,Occasional
+1,99.37,2,Occasional
+1,99.37,1,VIP
+1,99.15,1,VIP
+0,2.85,1,VIP
+1,98.71,3,At Risk
+1,74.05,3,At Risk
+0,0.1,1,VIP
+0,0.73,1,VIP
+1,97.54,2,Occasional
+0,0.0,1,VIP
+0,15.67,1,VIP
+0,1.23,3,At Risk
+0,0.11,3,At Risk
+0,12.41,1,VIP
+0,0.67,0,Stable
+1,98.12,3,At Risk
+0,0.31,1,VIP
+0,0.07,0,Stable
+0,26.64,1,VIP
+0,1.23,1,VIP
+0,29.07,1,VIP
+1,99.99,3,At Risk
+0,1.2,2,Occasional
+0,0.02,0,Stable
+0,0.14,3,At Risk
+0,0.54,0,Stable
+1,90.09,3,At Risk
+0,10.33,2,Occasional
+0,2.34,3,At Risk
+0,0.61,3,At Risk
+1,64.07,1,VIP
+1,99.53,1,VIP
+0,0.01,3,At Risk
+0,0.0,0,Stable
+0,0.01,1,VIP
+0,0.25,1,VIP
+0,0.29,1,VIP
+0,0.0,0,Stable
+0,14.24,1,VIP
+1,99.99,1,VIP
+0,1.45,0,Stable
+0,0.98,0,Stable
